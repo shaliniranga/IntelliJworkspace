@@ -9,14 +9,14 @@ public class ForCondition {
         }
 */
 
- /*     int m,n;
+     int m,n;
 
       for (m=1,n=4; m<n ; m++,n--) {
 
           System.out.println(" The value on m is "  +m +  "The value on n is " +n);
       }
 
- */
+
 
  /* //Condition driven for loop
 
@@ -62,7 +62,7 @@ public class ForCondition {
 
 // Implementation of Break
 
-        boolean t = true;
+  /*      boolean t = true;
 
         first : {
             second : {
@@ -80,6 +80,7 @@ public class ForCondition {
             }
 
                 System.out.println("Out of  first");
+*/
 
     }// main
 }// class
